@@ -12,7 +12,6 @@ body {
   --text-color: #757575;
 }
 .logo {
-  color: #4d5ae5;
   font-family: "Raleway", sans-serif;
   font-weight: 800;
   font-size: 18px;
@@ -20,7 +19,6 @@ body {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   list-style: none;
-  text-decoration: none;
 }
 .link {
   text-decoration: none;
