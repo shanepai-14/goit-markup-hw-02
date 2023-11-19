@@ -45,3 +45,6 @@ body {
 .contacts-list {
   font-style: normal;
 }
+.contact-details{
+    list-style: none;
+}
