@@ -37,6 +37,10 @@ body {
   color: #2e2f42;
   text-decoration: none;
 }
-.nav-list-item:hover {
+.nav-list-item:hover ,
+.nav-list-item:focus{
   color: #404bbf;
+}
+.contacts-lis{
+    font-style : normal;
 }
