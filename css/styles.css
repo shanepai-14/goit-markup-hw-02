@@ -11,7 +11,7 @@ body {
   --team-color: #f5f4fa;
   --text-color: #757575;
 }
-.logo {
+.link {
   font-family: "Raleway", sans-serif;
   font-weight: 800;
   font-size: 18px;
@@ -19,5 +19,5 @@ body {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   text-decoration: none;
-  color : #4d5ae5;
+  color: #4d5ae5;
 }
