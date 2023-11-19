@@ -23,7 +23,7 @@ body {
 .link {
   text-decoration: none;
   color: #4d5ae5;
-  list-style : none;
+  list-style: none;
 }
 .studio {
   color: #2e2f42;
@@ -52,4 +52,10 @@ body {
 .contacts-list-item {
   text-decoration: none;
   list-style: none;
+}
+.first-section {
+  background-color: #2e2f42;
+}
+.first-header {
+  font-size: 56px;
 }
