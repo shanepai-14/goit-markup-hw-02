@@ -46,9 +46,7 @@ body {
 .contacts-list {
   font-style: normal;
 }
-.contacts-details {
-  list-style: none;
-}
+
 .contacts-list-item {
   text-decoration: none;
   list-style: none;
