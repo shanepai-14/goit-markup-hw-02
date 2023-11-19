@@ -26,3 +26,17 @@ body {
 .studio {
   color: #2e2f42;
 }
+.nav-list {
+  list-style: none;
+}
+.nav-list-item {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+  text-decoration: none;
+}
+.nav-list-item:hover {
+  color: #404bbf;
+}
