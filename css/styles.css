@@ -20,18 +20,18 @@ body {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
-  text-decoration : none;
+  text-decoration: none;
 }
-.logo-studio{
- color: #2e2f42;
+.logo-studio {
+  color: #2e2f42;
 }
-.nav-list{
-  list-style : none;
+.nav-list {
+  list-style: none;
 }
-.link-studio{
+.link-studio {
   font-weight: 500;
-  font-size :16px;
-  line-height : 1.5;
-  letter-spacing : 0.02em;
-  color :#2e2f42;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
 }
