@@ -1,6 +1,6 @@
 :root {
   --main-color: #434455;
-  --accent-color: #2196f3;
+  --accent-color: #404bbf;
   --title-color: #ffffff;
   --background: #2f303a;
   --team-color: #f5f4fa;
@@ -50,10 +50,13 @@ body {
   color: var(--accent-color);
 }
 .contact-info .info {
-  color: var(--nav-color);
+  color: var(--main-color);
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   text-decoration: none;
+}
+.address {
+  font-style: normal;
 }
