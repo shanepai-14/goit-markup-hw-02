@@ -44,7 +44,8 @@ body {
 
 .nav-list .nav-list-item:hover,
 .nav-list .nav-list-item:focus,
-.nav-list .nav-list-item.currentoption .contact-info .info .info:hover,
+.nav-list .nav-list-item.currentoption,
+.contact-info .info:hover,
 .contact-info .info:focus {
   color: var(--accent-color);
 }
