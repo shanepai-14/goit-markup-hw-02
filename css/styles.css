@@ -44,6 +44,15 @@ body {
 
 .nav-list .nav-list-item:hover,
 .nav-list .nav-list-item:focus,
-.nav-list .nav-list-item.currentoption {
+.nav-list .nav-list-item.currentoption .contact-info .info .info:hover,
+.contact-info .info:focus {
   color: var(--accent-color);
+}
+.contact-info .info {
+  color: var(--nav-color);
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  text-decoration: none;
 }
