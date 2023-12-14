@@ -25,6 +25,9 @@ body {
 .logo-studio {
   color: #2e2f42;
 }
+.link {
+  text-decoration: none;
+}
 .nav-list {
   list-style: none;
 }
