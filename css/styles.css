@@ -36,6 +36,6 @@ body {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.nav-list {
+nav .nav-list {
   list-style: none;
 }
