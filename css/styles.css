@@ -60,3 +60,7 @@ body {
 .contacts {
   font-style: normal;
 }
+
+.currentoption{
+  text-decoration : none;
+}
