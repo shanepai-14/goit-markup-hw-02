@@ -5,6 +5,7 @@
   --background: #2f303a;
   --team-color: #f5f4fa;
   --text-color: #757575;
+  --nav-color: #2e2f42;
 }
 
 body {
@@ -29,13 +30,13 @@ body {
   text-decoration: none;
 }
 
-.nav-list-item {
+.nav-list .nav-list-item {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #2e2f42;
+  color: var(--nav-color);
 }
-nav .nav-list {
+.lists {
   list-style: none;
 }
