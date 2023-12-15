@@ -27,7 +27,7 @@ body {
   color: #2e2f42;
 }
 
-.link {
+.nav-list .link {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -46,14 +46,14 @@ body {
 .contact-info .link:focus {
   color: var(--accent-color);
 }
-/* .contact-info .info {
+.contact-info .link {
   color: var(--main-color);
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   text-decoration: none;
-} */
+}
 .contacts {
   font-style: normal;
 }
