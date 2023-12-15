@@ -82,7 +82,7 @@ body {
   cursor: pointer;
 }
 
-.hero .hero-btn :hover,
-.hero .hero-btn :focus {
+.hero-btn:hover,
+.hero-btn:focus {
   background-color: var(--accent-color);
 }
