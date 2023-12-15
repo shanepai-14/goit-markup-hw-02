@@ -131,6 +131,7 @@ body {
   letter-spacing: 0.04em;
   color: var(--btn-color);
   background-color: var(--team-color);
+  font-size: 16px;
 }
 
 .port-btn:hover,
@@ -138,4 +139,7 @@ body {
   color: var(--title-color);
   background-color: #404bbf;
   cursor: pointer;
+}
+.product-list .link {
+  text-decoration: none;
 }
