@@ -28,7 +28,6 @@ body {
 }
 .link {
   text-decoration: none;
-
 }
 
 .nav-list .nav-list-item {
@@ -64,4 +63,5 @@ body {
 
 .currentoption {
   text-decoration: none;
+  color: var(--nav-color);
 }
