@@ -41,7 +41,6 @@ body {
 
 .nav-list .link:hover,
 .nav-list .link:focus,
-.nav-list .link.currentoption,
 .contact-info .link:hover,
 .contact-info .link:focus {
   color: var(--accent-color);
