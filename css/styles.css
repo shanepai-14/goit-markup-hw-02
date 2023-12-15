@@ -68,9 +68,21 @@ body {
   font-size: 56px;
   text-align: center;
   letter-spacing: 0.02em;
-  color: #ffffff;
+  color: var(--title-color);
+  line-height: 1.07;
 }
 .hero .hero-btn {
   background-color: #4d5ae5;
   font-family: var(--main-font);
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: var(--title-color);
+  cursor: pointer;
+}
+
+.hero .hero-btn :hover,
+.hero .hero-btn :focus {
+  background-color: var(--accent-color);
 }
