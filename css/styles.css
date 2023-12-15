@@ -143,3 +143,6 @@ body {
 .product-list .link {
   text-decoration: none;
 }
+.product-list .sec-two-par {
+  color: var(--main-color);
+}
