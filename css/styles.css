@@ -6,6 +6,7 @@
   --team-color: #f5f4fa;
   --text-color: #757575;
   --nav-color: #2e2f42;
+  --main-font: "Roboto", sans-serif;
 }
 
 body {
@@ -32,7 +33,7 @@ body {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: var(#2e2f42);
+  color: var(--nav-color);
   text-decoration: none;
 }
 .list {
@@ -59,4 +60,17 @@ body {
 
 .currentoption {
   text-decoration: none;
+}
+.hero {
+  background-color: var(--nav-color);
+}
+.hero .hero-header {
+  font-size: 56px;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+}
+.hero .hero-btn {
+  background-color: #4d5ae5;
+  font-family: var(--main-font);
 }
