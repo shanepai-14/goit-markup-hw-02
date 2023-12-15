@@ -42,18 +42,18 @@ body {
 .nav-list .link:hover,
 .nav-list .link:focus,
 .nav-list .link.currentoption,
-.contact-info .info:hover,
-.contact-info .info:focus {
+.contact-info .link:hover,
+.contact-info .link:focus {
   color: var(--accent-color);
 }
-.contact-info .info {
+/* .contact-info .info {
   color: var(--main-color);
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   text-decoration: none;
-}
+} */
 .contacts {
   font-style: normal;
 }
