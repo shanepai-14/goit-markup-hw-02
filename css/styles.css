@@ -3,7 +3,6 @@
   --accent-color: #404bbf;
   --title-color: #ffffff;
   --background: #2f303a;
-  --team-color: #f5f4fa;
   --text-color: #757575;
   --nav-color: #2e2f42;
   --main-font: "Roboto", sans-serif;
@@ -112,4 +111,15 @@ body {
 }
 .sec-four .sec-four-item {
   background-color: var(--title-color);
+}
+.footer {
+  background-color: var(--nav-color);
+}
+.logo-studio {
+  color: var(--team-color);
+}
+.footer p {
+  line-height: 1.5;
+  color: var(--team-color);
+  letter-spacing : 0.02em;
 }
