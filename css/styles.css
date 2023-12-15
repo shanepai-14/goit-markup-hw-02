@@ -38,7 +38,7 @@ body {
   color: var(--nav-color);
   text-decoration: none;
 }
-.lists {
+.list {
   list-style-type: none;
 }
 
