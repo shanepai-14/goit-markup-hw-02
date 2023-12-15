@@ -86,14 +86,15 @@ body {
 .hero .hero-btn:focus {
   background-color: var(--accent-color);
 }
-.sec-two-list .sec-two-header{
-  font-weight : 500;
-  font-size : 20px;
-  line-height : 1.2;
-  letter-spacing : 0.02em;
-  color :var(--nav-color);
+.sec-two-list .sec-two-header {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: var(--nav-color);
 }
-.sec-two-list .sec-two-par{
-  font-size :16px;
-  letter-spacing : 0.02em;
+.sec-two-list .sec-two-par {
+  font-size: 16px;
+  letter-spacing: 0.02em;
+  line-height: 1.5;
 }
