@@ -28,7 +28,7 @@ body {
 }
 .link {
   text-decoration: none;
-  color: var(--nav-color);
+
 }
 
 .nav-list .nav-list-item {
